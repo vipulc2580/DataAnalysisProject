@@ -1,17 +1,18 @@
 # DataAnalysisProject
 I Have Learnt Various Tools to Perform Data Analysis which helps gather insights from data helping Business stack holder to make better decisions
+\n
 Library Used:
-MaplotLib
-Seaborn
-Numpy
-Plotly
+\nMaplotLib
+\nSeaborn
+\nNumpy
+\nPlotly
 
-DataBases Used:
-SQL
-MongoDB
-Postgres SQL
-
+\nDataBases Used:
+\nSQL
+\nMongoDB
+\nPostgres SQL
+\n
 BI Tools:
-Excel
-Tableau
+\nExcel
+\nTableau
 
